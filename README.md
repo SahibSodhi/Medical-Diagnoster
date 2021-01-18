@@ -6,8 +6,7 @@ Web based tool for doctors to detect various type of disease like
 - Breast Cancer etc.
 
 ## Demo
-Take a quick look at https://doctor-ai.herokuapp.com/
-
+<!--- Take a quick look at https://doctor-ai.herokuapp.com/ --->
 3 step Demo:
 - Select the demo
 - Upload the image
